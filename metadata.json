@@ -1,0 +1,6 @@
+{
+  "name": "Kovea Makom Pro - Synagogue Seating & Reservations",
+  "description": "Comprehensive Synagogue Seating & Reservations Platform inspired by Kovea Makom with full 4-language support (English, Hebrew, French, Yiddish), massive layout builders, membership dues tracking, printable labels, and Yom Tov offline binder tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
